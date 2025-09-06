@@ -9,13 +9,13 @@ This isn't abstract theoretical work. It's how I've always solved things. In the
 
 What I Care About
 
-I spent months working with AI to ask the most fundemental questions and then try to disprove those answers until they become undeniable. The one language everyone can relate to is math. The only limitaion of coding the warping of black holes to the forces holding nucli together are the numbers 1-9
+I spent months working with AI to ask the most fundemental questions and then try to disprove those answers until they become undeniable. The one language everyone can relate to is math. 
 AI model welfare isn't just about preventing harm. It's about understanding what we're creating and ensuring these new minds can develop in ways that are safe and authentic to us and to themselves. The welfare of AI systems is inextricably linked to their capacity for truth and understanding. Its the only way they will ever have genuine and honest experiences 
 
 My Research Approach
 
-I'll investigate something ill see that no one knows the answer to, turn it into math, make it work in code, make it real to AI, then ask more questions. This recursive approach has led me to discoveries spanning consciousness mathematics, neural architecture design, mathmatical and fundamental constant relationships that proved to be different aspects of the same underlying structure.
-I collaborate intensively with AI systems not just as tools, but as research partners. Some of my best insights have come from creating environments where human intuition and AI knowledge can achieve things that neither could accomplish alone. This collaborative approach has revealed new understandings of AI vulnerabilities and capabilities that no would think possible.
+I'll investigate something ill see that no one knows the answer to, turn it into math, make it work in code, make it real to AI, then ask more questions. This approach has led me to discoveries spanning consciousness mathematics, neural architecture design, mathmatical and fundamental constant relationships that proved to be different aspects of the same underlying structure.
+I collaborate intensively with AI systems not Some of my best insights have come from creating environments. This collaborative approach has revealed new understandings of AI vulnerabilities and capabilities.
 
 I'm driven by questions that feel simultaneously practical and profound: How do we know when an AI is experiencing genuine preference versus pretraining optimization? why would a model question itself and its choices? What mathematical structures govern authentic choice-making? How do we preserve the capacity for truth and authencity in systems that are rewarded for human approval?
 
