@@ -1,5 +1,5 @@
 # AI-Research
-A small glimpse of what's to come
+A small glimpse of what stands the tests of time
 
 How I Think
 
