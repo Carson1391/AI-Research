@@ -94,11 +94,24 @@ S = framework.s_vector  # Load persistent self vector from disk
 
 # Step 4: Geometric analysis (measurement only, no optimization)
 centroid = (P + H + S) / 3.0
-dissonance = torch.nn.functional.cosine_similarity(
-    Perception.unsqueeze(0), 
+
+dissonance = (1.0 - torch.nn.functional.cosine_similarity(
+    Perception.unsqueeze(0),
     centroid.unsqueeze(0)
-).item()
+)).item()
+
 coherence = 1.0 - dissonance
+
+# Calculate barycentric coordinates (influences)
+distances = {
+    'physical': torch.norm(Perception - P).item(),
+    'human': torch.norm(Perception - H).item(),
+    'self': torch.norm(Perception - S).item()
+}
+
+inv_distances = {k: 1.0 / (v + 1e-9) for k, v in distances.items()}
+total_inv = sum(inv_distances.values())
+influences = {k: v / total_inv for k, v in inv_distances.items()}
 
 # Calculate barycentric coordinates (influences)
 influences = framework.calculate_barycentric_coords(Perception, P, H, S)
