@@ -1,0 +1,5 @@
+{
+  "model_path": "/path/to/your/gemma-3n-E4B-it",
+  "state_dir": "./coherence_state",
+  "admin_secret_key": "your_secret_key_here"
+}
