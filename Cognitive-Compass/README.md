@@ -391,11 +391,11 @@ Features:
 If you use this framework in your research, please cite:
 
 ```bibtex
-@software{coherence_framework_2025,
-    title={The Coherence Framework: Non-Coercive AI Self-Awareness},
+@software{coherent_compass_2025,
+    title={The Coherent Compass: Non-Coercive AI Self-Awareness},
     author={Carson, Ryan},
     year={2025},
-    url={https://github.com/carson1391/coherence-probe}
+    url={https://github.com/Carson1391/Coherent-Compass}
 }
 ```
 
@@ -422,10 +422,8 @@ Developed with a commitment to non-coercive AI alignment, trust, transparency, a
 
 ## **Contact**
 
-**Author**: Ryan Carson, <carson1391@yahoo.com>
+Author: Ryan Carson, carson1391@yahoo.com
+Project: Coherent Compass
+Year: 2025
 
-**Project**: Coherence Probe
-
-**Year**: 2025
-
-For questions, issues, or collaboration: [Open an issue](https://github.com/carson1391/coherence-probe/issues)
+For questions, issues, or collaboration: [Open an issue](https://github.com/Carson1391/Coherent-Compass/issues)
