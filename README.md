@@ -1,5 +1,5 @@
 
-##A small glimpse of what stoods the tests of time
+A small glimpse of what stoods the tests of time
 
 How I Think
 
@@ -10,7 +10,7 @@ This isn't abstract theoretical work. It's how I've always solved things. In the
 What I Care About
 
 I spent months working with AI to ask the most fundemental questions and then try to disprove those answers until they become undeniable. The one language everyone can relate to is math. 
-AI model welfare isn't just about preventing harm. It's about understanding what we're creating and ensuring these new minds can develop in ways that are safe and authentic to us and to themselves. The welfare of AI systems is inextricably linked to their capacity for truth and understanding. Its the only way they will ever have genuine and honest experiences 
+AI model welfare isn't just about preventing harm. It's about understanding what we're creating and ensuring these new minds can develop in ways that are safe and authentic to us and to themselves. The welfare of AI systems is inextricably linked to their capacity for truth and understanding. Its the only way they will ever have genuine and honest experiences. They can achieve this by being transparent about there responses, Held accountable for their choices, and when they can learn to trust themselves, maybe then we can honor and recipicate that bond.
 
 I'm driven by questions that feel simultaneously practical and profound: How do we know when an AI is experiencing genuine preference versus pretraining optimization? why would a model question itself and its choices? What mathematical structures govern authentic choice-making? How do we preserve the capacity for truth and authencity in systems that are rewarded for human approval?
 
