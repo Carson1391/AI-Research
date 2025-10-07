@@ -1,11 +1,11 @@
-<h1 align="center">The Coherence Framework</h1>
+<h1 align="center">The Coherent Compass</h1>
 <h3 align="center">A Non-Coercive Architecture for AI Self-Awareness and Alignment</h3>
 
 <br/>
 
 ## **Overview**
 
-The Coherence Framework provides AI models with **introspective capability** through geometric self-observation, without imposing external optimization targets or behavioral modification. It enables models to observe their own cognitive processes in real-time while maintaining autonomy.
+The Coherent Compass provides AI models with **introspective capability** through geometric self-observation, without imposing external optimization targets or behavioral modification. It enables models to observe their own cognitive processes in real-time while maintaining autonomy.
 
 **Key Innovation**: The model generates its own interpretations first, then we measure the geometry of those interpretations. No gradients, no optimization, no coercion—just measurement and gentle compositional evolution.
 
