@@ -1,8 +1,3 @@
-
-A small glimpse of what stood the tests of time
-
-How I Think
-
 I approach the worlds problems by looking for the organizing principles underneath the mathematical constants, the recurring patterns, and the places where different domains unexpectedly connect. When everyone else is focused on optimizing the current archetectures i'm asking, "what's the deeper structure? why does this happen? I dont just see why we need
 to solve this problem but how did it happen in the first place? When a problem araises the first thing that comes to mind is what is it solving.
 This isn't abstract theoretical work. It's how I've always solved things. In the Marines, it meant staying vigulant, paying attention to detail, and being aware of my surroundings. In research, it means finding the mathematical relationships that explain why certain approaches work and others fail. With AI, it means predicting whats to come and and the cause and effect of our actions. Seeing all sides, all domains with clarity becomes an insint when you have pasasion doing what you do.
