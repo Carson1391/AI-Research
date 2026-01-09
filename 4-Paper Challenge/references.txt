@@ -1,0 +1,34 @@
+**References**
+
+
+**Original Challenge Papers**
+
+1. Digital Red Queen (DRQ): Evolutionary Dynamics in Code Space
+   Paper on evolutionary algorithms and adaptive code optimization through competitive dynamics
+
+2. VLM4VLA: Vision-Language Models for Vision-Language-Action
+   Research on adapting vision-language models for robotic control and embodied AI applications
+
+3. PointWorld: 3D Dynamics Prediction as Point Flows
+   Framework for predicting environment dynamics using 3D point cloud representations without permutation matrices
+
+4. Membox: Structured Memory with Narrative Coherence
+   Memory architecture featuring Topic Loom and Trace Weaver for maintaining contextual integrity in AI agents
+
+
+**Integration Papers**
+
+5. GENEO: Group Equivariant Non-Expansive Operators
+   Algebraic representation theorem for linear GENEOs providing mathematical foundations for equivariant symmetries
+
+6. LLMatic: Neural Architecture Search with LLM-Driven Mutations
+   Neural architecture search framework using MAP-Elites and large language models for intelligent architectural evolution
+
+7. Selfi: Self-Improving Reconstruction Engine
+   Geometric reconstruction framework for aligning vision-language model features with 3D spatial understanding
+
+
+**Challenge Source**
+
+"4 Papers to Secure Your Next AI Job" by Discover AI
+Completed: January 9, 2026
