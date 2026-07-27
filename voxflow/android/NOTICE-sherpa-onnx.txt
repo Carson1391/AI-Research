@@ -1,0 +1,7 @@
+This project bundles components from sherpa-onnx (https://github.com/k2-fsa/sherpa-onnx),
+version 1.13.3, licensed under the Apache License 2.0:
+
+  - app/src/main/jniLibs/arm64-v8a/*.so       (prebuilt JNI libraries)
+  - app/src/main/java/com/k2fsa/sherpa/onnx/  (official Kotlin API files)
+
+Full license text: https://github.com/k2-fsa/sherpa-onnx/blob/master/LICENSE

@@ -1,0 +1,80 @@
+# VoxFlow vocabulary file
+# Two kinds of lines:
+#   1. Canonical terms (one per line). Fuzzy matching pulls near-misses to these
+#      spellings and fixes casing. Desktop only (needs rapidfuzz).
+#   2. Forced rules:  spoken form => written form
+#      Applied on both desktop and Android, case-insensitive, whole-phrase.
+# Lines starting with # are comments.
+
+# ---------- canonical terms ----------
+QKV
+Engram
+K-FAC
+Grad-CAM
+HOSVD
+TwoNN
+ByteTrack
+YOLO
+YOLOv8
+YOLO11
+Nemotron
+Qwen
+Ollama
+Zenodo
+USM
+Riemann
+Feigenbaum
+Chladni
+LIGO
+Darknet-53
+ExposureWatch
+Surverse
+sherpa-onnx
+ONNX
+CUDA
+VRAM
+PyTorch
+Kotlin
+APK
+BLE
+SSID
+Wi-Fi
+AES-256-GCM
+Wispr
+attention sink
+super weight
+eigenvalue
+Laplacian
+transducer
+tokenizer
+embedding
+interpretability
+
+# ---------- forced rules ----------
+cue kv => QKV
+q k v => QKV
+k fac => K-FAC
+k fack => K-FAC
+kay fack => K-FAC
+grad cam => Grad-CAM
+gradcam => Grad-CAM
+n gram => N-gram
+engram scripts => Engram scripts
+you sm => USM
+o nyx => ONNX
+onyx => ONNX
+kuda => CUDA
+cooda => CUDA
+chen => Qwen
+gwen three => Qwen3
+qwen three => Qwen3
+yolo v eight => YOLOv8
+yolo eleven => YOLO11
+byte track => ByteTrack
+dark net => Darknet
+sherpa onyx => sherpa-onnx
+alpha equals one over one thirty seven => alpha = 1/137
+one over one thirty seven => 1/137
+one thirty seven => 137
+golden angle => golden angle 137.5
+exposure watch => ExposureWatch
