@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExposureWatch</string>
+    <string name="nav_dashboard">Watch</string>
+    <string name="nav_signals">Signals</string>
+    <string name="nav_alerts">Alerts</string>
+</resources>
